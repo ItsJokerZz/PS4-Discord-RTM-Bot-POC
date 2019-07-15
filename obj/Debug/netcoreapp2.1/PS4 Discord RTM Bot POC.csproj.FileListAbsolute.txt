@@ -1,0 +1,11 @@
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\bin\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.deps.json
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\bin\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.runtimeconfig.json
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\bin\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.runtimeconfig.dev.json
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\bin\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.dll
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\obj\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.csprojAssemblyReference.cache
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\obj\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.csproj.CoreCompileInputs.cache
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\obj\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.AssemblyInfoInputs.cache
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\obj\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.AssemblyInfo.cs
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\bin\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.pdb
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\obj\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.dll
+C:\Users\codem\Desktop\Stuff\VStudio Projects\PS4 Discord RTM Bot POC\obj\Debug\netcoreapp2.1\PS4 Discord RTM Bot POC.pdb
